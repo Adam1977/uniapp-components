@@ -25,14 +25,14 @@ this.$api.post('LOGIN', {username: 'XXX', password: 'XXX'}, 'http://localhost:10
 # QuShe-picker(地区)
 https://ext.dcloud.net.cn/plugin?id=440
 参考pages/myData/myData
+
 # uni-ui
 更改uni-list-item
 // 自定义fromParentValue、isInput
 fromParentValue-右侧显示传入的值，去除箭头图标
 isInput-为true时，和fromParentValue同时使用，双向绑定修改回显
-```
-4、js_sdk/u-charts
-```
+
+# u-charts
 http://doc.ucharts.cn/1073940
 参考pages/learnRecord/learnRecord
 ```
