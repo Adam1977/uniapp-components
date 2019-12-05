@@ -20,7 +20,7 @@
 </template>
 
 <script>
-	import uCharts from '@/js_sdk/u-charts/u-charts/u-charts.js';
+    import uCharts from "@/components/u-charts/u-charts.js"
 	var _self;
 	var canvaLineA=null;
 	export default {
